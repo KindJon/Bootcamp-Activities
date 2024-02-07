@@ -24,3 +24,7 @@
     - [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/02-GRC/2/Activities?ref_type=heads)
     - [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/02-GRC/2/StudentGuide.md?ref_type=heads)
     - [Slides](https://docs.google.com/presentation/d/1sEsG0BEQ40gj2pDyEaiKnOTM--4dxKeUIsVLMYo_QJQ/edit#slide=id.g23a4a1ce5f4_0_0)
+- [Day 3]
+    - [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/02-GRC/3/Activities?ref_type=heads)
+    - [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/02-GRC/3/StudentGuide.md?ref_type=heads)
+    - [Slides](https://docs.google.com/presentation/d/1ZGr2tV0wk7rX7LDzq0bsiuBOaQVH-eZwFtLxkzFLWww/edit#slide=id.gcb76b091db_0_1141)
