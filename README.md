@@ -17,3 +17,8 @@
         - [ Resources](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/03-Terminal-and-Bash/Day%201/Resources?ref_type=heads)
     - [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/03-Terminal-and-Bash/Day%201/StudentGuide.md?ref_type=heads)
     - [Slides](https://docs.google.com/presentation/d/1somkgdlwclBB7TNYD1QR9-Hc6tMAqMxgC5BHwm8zJFM)
+- **Day 2**
+    - [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/03-Terminal-and-Bash/Day%202/Activities?ref_type=heads)
+        -[Cheat Sheet](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/03-Terminal-and-Bash/Day%202/Cheatsheet.md?ref_type=heads)
+    - [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/03-Terminal-and-Bash/Day%202/StudentGuide.md?ref_type=heads)
+    - [Slides](https://docs.google.com/presentation/d/1VOTC2YCClLcO1cJv6rbmcDHEdi7ub7xadupy7aKF3PE)
