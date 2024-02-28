@@ -1,19 +1,15 @@
 # UofO-VIRT-CYBER-PT-01-2024-U-LOLC
 
-# Linux Sysadmin Fundamentals
+
+# Archiving and Logging Data
 
 **_Day1_**
-      
-- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/04-Linux-SysAdmin-Fundamentals/1/Activities?ref_type=heads)
-- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/04-Linux-SysAdmin-Fundamentals/1/StudentGuide.md?ref_type=heads)
-- [Slides](https://docs.google.com/presentation/d/1HI73cjG9SolDervfsoYLs201N-q8LOWhgoH4x67mwJc)
+- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/05-Archiving-and-Logging-Data/1/Activities?ref_type=heads)
+- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/05-Archiving-and-Logging-Data/1/StudentGuide.md?ref_type=heads)
+- [Slides](https://docs.google.com/presentation/d/1_Ylx5ytcD85pQj8bAtbGPiZwnwx7yEdrT9rmVQK26pg)
 
-**_Day2_**
-- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/04-Linux-SysAdmin-Fundamentals/2/Activities?ref_type=heads)
-- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/04-Linux-SysAdmin-Fundamentals/2/StudentGuide.md?ref_type=heads)
-- [Slides](https://docs.google.com/presentation/d/1em6mxWkllhl0wPNAuG-v16Hz2ch2jf6qh8SdRbeJdA0)
+**_Info Links_**
+- [SOX - Sarbanes-Oxley Act](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act)
+- [HIPAA](https://linfordco.com/blog/hipaas-record-retention-requirements/)
+- [Incremental Backup Info](https://www.gnu.org/software/tar/manual/html_node/Snapshot-Files.html)
 
-**_Day3_**
-- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/04-Linux-SysAdmin-Fundamentals/3/Activities?ref_type=heads)
-- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/04-Linux-SysAdmin-Fundamentals/3/StudentGuide.md?ref_type=heads)
-- [Slides](https://docs.google.com/presentation/d/1C-tlM9NHyD-mF2CcYFV7FONs5r9hRntZa-4OhovT92g)
