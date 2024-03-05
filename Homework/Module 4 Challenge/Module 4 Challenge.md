@@ -9,7 +9,7 @@ Lab Environment
 You will continue to use your web lab this week.
 
 Instructions
-As you complete each of the following steps, fill out the [Module 4 Challenge Submission File](https://docs.google.com/document/d/1a1CrTH0SnsmMuP4TsEQV24pGHQKbVfvc-7xx9Vz3_Qg/copy)Links to an external site. (remember to make a copy of this document before filling it out). This is the deliverable that you'll submit at the end of the assignment.
+As you complete each of the following steps, fill out the [Module 4 Challenge Submission File](https://docs.google.com/document/d/1a1CrTH0SnsmMuP4TsEQV24pGHQKbVfvc-7xx9Vz3_Qg/copy) Links to an external site. (remember to make a copy of this document before filling it out). This is the deliverable that you'll submit at the end of the assignment.
 
 For each of the following steps, you will need to run the correct command and confirm the results.
 
