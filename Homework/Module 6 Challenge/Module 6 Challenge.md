@@ -50,7 +50,7 @@ Swap to the root user by entering sudo -s and reentering the password passw0rd.
 You should now have the root prompt root:~\ $ that you acquired during your scavenger hunt activity.
 
 Instructions
-Fill out the Module 6 Challenge Submission FileLinks to an external site. as you complete this assignment (remember to make a copy of this document before filling it out). You will submit this document as your deliverable for the Challenge.
+Fill out the [Module 6 Challenge Submission File](https://docs.google.com/document/d/1bu-0p9V4JWZyG8PYuTe8OOPfBIzuG8jzxjfq9EHu8Oo/copy)  Links to an external site. as you complete this assignment (remember to make a copy of this document before filling it out). You will submit this document as your deliverable for the Challenge.
 
 Your goal for this assignment is to maintain access to the target machine by installing a backdoor. You will then use the backdoor to crack sensitive passwords.
 
