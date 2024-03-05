@@ -17,3 +17,8 @@
 - [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/05-Archiving-and-Logging-Data/2/Activities?ref_type=heads)
 - [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/05-Archiving-and-Logging-Data/2/StudentGuide.md?ref_type=heads)
 - [Slides](https://docs.google.com/presentation/d/1dyIwDmsh2NfIkrN0Wd20pea-bAFQeHRKJi3fpP_mMt4)
+
+**_Day3_**
+- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/05-Archiving-and-Logging-Data/3/Activities?ref_type=heads)
+- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/05-Archiving-and-Logging-Data/3/StudentGuide.md?ref_type=heads)
+- [Slides](https://docs.google.com/presentation/d/1fGi7BYvMqpKqC81J222PJ0YWcfE4DKIE8sMaWqQ8OJA)
