@@ -39,7 +39,7 @@ Download the following file (you can either slack it to yourself or use the Fire
 
 TarDocs.tarLinks to an external site.
 Instructions
-As you solve each of the following steps, fill out the Module 5 Challenge Submission FileLinks to an external site. (remember to make a copy of this document before filling it out). This will be your Challenge deliverable.
+As you solve each of the following steps, fill out the[ Module 5 Challenge Submission File](https://docs.google.com/document/d/1ZyyKccu8-wGPfo1eJxooiyJk4nmc04mldcICr3iVs4I/copy) Links to an external site. (remember to make a copy of this document before filling it out). This will be your Challenge deliverable.
 
 In each of the following sections, you will use and build on your system administration tools and knowledge. Make sure to read the instructions carefully.
 
