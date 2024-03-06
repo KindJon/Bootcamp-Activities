@@ -1,24 +1,10 @@
 # UofO-VIRT-CYBER-PT-01-2024-U-LOLC
 
 
-# Archiving and Logging Data
+# Bash Scripting
 
 **_Day1_**
-- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/05-Archiving-and-Logging-Data/1/Activities?ref_type=heads)
-- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/05-Archiving-and-Logging-Data/1/StudentGuide.md?ref_type=heads)
-- [Slides](https://docs.google.com/presentation/d/1_Ylx5ytcD85pQj8bAtbGPiZwnwx7yEdrT9rmVQK26pg)
+- [Activiites](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/06-Bash-Scripting-and-Programming/1/Activities?ref_type=heads)
+- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/06-Bash-Scripting-and-Programming/1/StudentGuide.md)
+- [Slides](https://docs.google.com/presentation/d/1OTFWEBKyhLCMQKEeD67e8CRPd4y22-wEHnCVD8jwYLg)
 
-**_Info Links_**
-- [SOX - Sarbanes-Oxley Act](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act)
-- [HIPAA](https://linfordco.com/blog/hipaas-record-retention-requirements/)
-- [Incremental Backup Info](https://www.gnu.org/software/tar/manual/html_node/Snapshot-Files.html)
-
-**_Day2_**
-- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/05-Archiving-and-Logging-Data/2/Activities?ref_type=heads)
-- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/05-Archiving-and-Logging-Data/2/StudentGuide.md?ref_type=heads)
-- [Slides](https://docs.google.com/presentation/d/1dyIwDmsh2NfIkrN0Wd20pea-bAFQeHRKJi3fpP_mMt4)
-
-**_Day3_**
-- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/05-Archiving-and-Logging-Data/3/Activities?ref_type=heads)
-- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/05-Archiving-and-Logging-Data/3/StudentGuide.md?ref_type=heads)
-- [Slides](https://docs.google.com/presentation/d/1fGi7BYvMqpKqC81J222PJ0YWcfE4DKIE8sMaWqQ8OJA)
