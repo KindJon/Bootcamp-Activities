@@ -16,5 +16,12 @@
 - [Slides](https://docs.google.com/presentation/d/1jITuNdF7DuRZ_fXK07W0sV4XS5nDW5nodvaPTk-5wU8/edit#slide=id.g105e4070612_0_1281)
 - [PDF Slides](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/08-Networking-Fundamentals/2/(V3.5)%208.2%20Ports,%20Protocols,%20and%20the%20OSI%20Model.pdf?ref_type=heads)
 
+**_Day3_**
+- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/08-Networking-Fundamentals/3/Activities?ref_type=heads)
+    - [Pcap files](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/08-Networking-Fundamentals/3/Resources?ref_type=heads)
+- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/08-Networking-Fundamentals/3/StudentGuide.md?ref_type=heads)
+- [Slides](https://docs.google.com/presentation/d/1WS26sTfqoZIhd1MsVfsxSQ-sEFDWYwbTS9vl93MsWYA/edit#slide=id.g4789b2c72f_0_6)
+
+
 
 
