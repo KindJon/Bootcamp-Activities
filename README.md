@@ -15,6 +15,10 @@
 - [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/09-Networking-Fundamentals-II-and-CTF-Review/2/studentguide.md?ref_type=heads)
 - [Slides](https://docs.google.com/presentation/d/15UP_-mIN4E6h0VZUYf3rM679wR2mCPbY_Ser6wwtjzc/edit#slide=id.g4789b2c72f_0_6)
 
+**_Day3_**
+- [Resources](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/09-Networking-Fundamentals-II-and-CTF-Review/3/Resources?ref_type=heads)
+- [Slides](https://docs.google.com/presentation/d/1fi6FPqxfn3iQIBVsMmh9jLNFi7QVZBjGNv0YuIpJGuE/edit#slide=id.g4789b2c72f_0_6)
+
 
 
 
