@@ -1,15 +1,15 @@
 # UofO-VIRT-CYBER-PT-01-2024-U-LOLC
 
 
-# Web Development
+# Cloud Security
 
 **__Day1__**
-- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/12-Web-Development/1/Activities?ref_type=heads)
-    - [HTTP Cheat Sheet](https://docs.google.com/document/d/114kp6IsNklMhiz852qTxUlSsaJwwFfbUxDWZmtAv8S8/edit)
-- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/12-Web-Development/1/StudentGuide.md?ref_type=heads)
-- [Slides](https://docs.google.com/presentation/d/12wcj3g-jE6iFqYDRhFJgGL5yE_w-X5-2kWCbwbdVxQ4/)
+- [Personal Azure Setup Guide](https://docs.google.com/document/d/1gs_09b7eotl7hzTL82xlqPt-OwOd0aWA78qcQxtMr6Y/edit)
+- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/13-Cloud-Security/1/Activities?ref_type=heads)
+- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/13-Cloud-Security/1/StudentGuide.md?ref_type=heads)
+- [Slides](https://docs.google.com/presentation/d/1BXXef7gu-zGBBgGYenxVe0KL6kkc2Yql9QRkFoxyclE/)
 
-**__Day2__**
-- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/12-Web-Development/2/Activities?ref_type=heads)
-- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/12-Web-Development/2/StudentGuide.md?ref_type=heads)
-- [Slides](https://docs.google.com/presentation/d/1lYQMBlKNhprmbFdI7AoUSGaLt8oFzpFL6xnrAlI5W0M/)
+**Links**
+- [Docker](https://www.docker.com/)
+- [Ansible](https://www.ansible.com/)
+
