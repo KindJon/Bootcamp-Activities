@@ -9,7 +9,14 @@
 - [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/13-Cloud-Security/1/StudentGuide.md?ref_type=heads)
 - [Slides](https://docs.google.com/presentation/d/1BXXef7gu-zGBBgGYenxVe0KL6kkc2Yql9QRkFoxyclE/)
 
-**Links**
+**Links for Reading**
 - [Docker](https://www.docker.com/)
 - [Ansible](https://www.ansible.com/)
 
+**_Day2_**
+- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/13-Cloud-Security/2/Activities?ref_type=heads)
+- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/13-Cloud-Security/2/StudentGuide.md?ref_type=heads)
+- [Slides](https://docs.google.com/presentation/d/1nsN12hXByXxbcZh73ODEJSBV5lfiP6IhEQQxuNimTDg/)
+
+****Cheat Sheet****
+- [Docker Commands](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/13-Cloud-Security/DockerCheatSheet.md)
