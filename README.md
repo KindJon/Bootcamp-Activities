@@ -20,3 +20,13 @@
 
 ****Cheat Sheet****
 - [Docker Commands](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/13-Cloud-Security/DockerCheatSheet.md)
+
+**_Day3_**
+- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/13-Cloud-Security/3/Activities?ref_type=heads)
+    - [YAML Playbook Example](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/13-Cloud-Security/3/Activities/03_Ansible_Playbooks/Unsolved/playbook_example.yml)
+- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/13-Cloud-Security/3/StudentGuide.md?ref_type=heads)
+- [Slides](https://docs.google.com/presentation/d/1A0vwOnMe6k2ANHCgw69XJFn_TD9l5dBA23ToKmiO6lM/)
+
+**Links for Info**
+- [Ansible](https://docs.ansible.com/)
+- [Ansible Documentation](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/apt_module.html)
