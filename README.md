@@ -30,3 +30,6 @@
 **Links for Info**
 - [Ansible](https://docs.ansible.com/)
 - [Ansible Documentation](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/apt_module.html)
+
+**_Day4_**
+- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/13-Cloud-Security/4/Activities?ref_type=heads)
