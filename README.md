@@ -1,35 +1,16 @@
 # UofO-VIRT-CYBER-PT-01-2024-U-LOLC
 
 
-# Cloud Security
+# Project 1
 
-**__Day1__**
-- [Personal Azure Setup Guide](https://docs.google.com/document/d/1gs_09b7eotl7hzTL82xlqPt-OwOd0aWA78qcQxtMr6Y/edit)
-- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/13-Cloud-Security/1/Activities?ref_type=heads)
-- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/13-Cloud-Security/1/StudentGuide.md?ref_type=heads)
-- [Slides](https://docs.google.com/presentation/d/1BXXef7gu-zGBBgGYenxVe0KL6kkc2Yql9QRkFoxyclE/)
+**_Day1_**
 
-**Links for Reading**
-- [Docker](https://www.docker.com/)
-- [Ansible](https://www.ansible.com/)
+- [Activity](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/14-Project-1/1/Activities?ref_type=heads)
+    - [Azure Free Day 1 Walkthrough Guide](https://docs.google.com/document/d/1LCmP_Aklpcr7ipUaqMzSN7iNCfx6J_1TWjXBM_umduE/edit)
+    - [Paid Domain Day 1 Walkthrough Guide](https://docs.google.com/document/d/1pQEQgcv_7nyoOBGT7u6Ruhs_DOWlAzi8vLoh3Hdruks/edit)
+- [Slides](https://docs.google.com/presentation/d/1ZKamLxz1u_p9T_L8yMi-g3hKtsRRHbkSFx8sGNgShZE/edit#slide=id.g4789b2c72f_0_6)
 
-**_Day2_**
-- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/13-Cloud-Security/2/Activities?ref_type=heads)
-- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/13-Cloud-Security/2/StudentGuide.md?ref_type=heads)
-- [Slides](https://docs.google.com/presentation/d/1nsN12hXByXxbcZh73ODEJSBV5lfiP6IhEQQxuNimTDg/)
+- [Project 1 Grading Rubric](https://docs.google.com/document/d/1MXZSyooeNEdYwBwYsbiLaOVxmc1x-LyY7M54BLGtkkY/edit)
 
-****Cheat Sheet****
-- [Docker Commands](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/13-Cloud-Security/DockerCheatSheet.md)
 
-**_Day3_**
-- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/13-Cloud-Security/3/Activities?ref_type=heads)
-    - [YAML Playbook Example](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/13-Cloud-Security/3/Activities/03_Ansible_Playbooks/Unsolved/playbook_example.yml)
-- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/13-Cloud-Security/3/StudentGuide.md?ref_type=heads)
-- [Slides](https://docs.google.com/presentation/d/1A0vwOnMe6k2ANHCgw69XJFn_TD9l5dBA23ToKmiO6lM/)
 
-**Links for Info**
-- [Ansible](https://docs.ansible.com/)
-- [Ansible Documentation](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/apt_module.html)
-
-**_Day4_**
-- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/13-Cloud-Security/4/Activities?ref_type=heads)
