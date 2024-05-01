@@ -10,6 +10,8 @@
     - [Paid Domain Day 1 Walkthrough Guide](https://docs.google.com/document/d/1pQEQgcv_7nyoOBGT7u6Ruhs_DOWlAzi8vLoh3Hdruks/edit)
 - [Slides](https://docs.google.com/presentation/d/1ZKamLxz1u_p9T_L8yMi-g3hKtsRRHbkSFx8sGNgShZE/edit#slide=id.g4789b2c72f_0_6)
 
+- [Project 1 Questions](https://docs.google.com/document/d/1VoWNPNUvobnVj7F6oM2wnVO0vViaZlzgIUs43adVw1U/edit)
+
 - [Project 1 Grading Rubric](https://docs.google.com/document/d/1MXZSyooeNEdYwBwYsbiLaOVxmc1x-LyY7M54BLGtkkY/edit)
 
 
