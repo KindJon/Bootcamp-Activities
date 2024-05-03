@@ -15,8 +15,8 @@
 - [Project 1 Grading Rubric](https://docs.google.com/document/d/1MXZSyooeNEdYwBwYsbiLaOVxmc1x-LyY7M54BLGtkkY/edit)
 
 **_Day2_**
-- [ Day 2 Free Azure walkthrough](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/14-Project-1/2/Activities/Day2_azure_free_domain.md?ref_type=heads)
-- [Day 2 Paid Domain Walkthrough](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/14-Project-1/2/Activities/Day2_paid_domains.md?ref_type=heads)
+- [ Day 2 Free Azure Walkthrough Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/14-Project-1/2/Activities/Day2_azure_free_domain.md?ref_type=heads)
+- [Day 2 Paid Domain Walkthrough Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/14-Project-1/2/Activities/Day2_paid_domains.md?ref_type=heads)
 
 - [Slides](https://docs.google.com/presentation/d/1oVZOpuc0D0s5LQwBW9fjpkReg_5cB3FGA-8h06b3Utc/edit#slide=id.g4789b2c72f_0_6)
 
