@@ -20,3 +20,11 @@
 
 - [Slides](https://docs.google.com/presentation/d/1oVZOpuc0D0s5LQwBW9fjpkReg_5cB3FGA-8h06b3Utc/edit#slide=id.g4789b2c72f_0_6)
 
+**_Day3_**
+- [Day 3 walkthrough Azure Free or Paid](https://docs.google.com/document/d/1E3_I1NNNKJSpraCgWJ7x84KLnU-QwrFIiuOmCLjPnZ0/edit?pli=1)
+
+**_Links_**
+- [Azure Front Door Doc](https://azure.microsoft.com/en-us/products/frontdoor/#overview)
+- [Azure Web App Firewall Doc](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/afds-overview)
+- [Azure Defender for Cloud Doc](https://learn.microsoft.com/en-us/azure/defender-for-cloud/)
+
