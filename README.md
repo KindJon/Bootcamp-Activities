@@ -23,6 +23,8 @@
 **_Day3_**
 - [Day 3 walkthrough Azure Free or Paid](https://docs.google.com/document/d/1E3_I1NNNKJSpraCgWJ7x84KLnU-QwrFIiuOmCLjPnZ0/edit?pli=1)
 
+- [Slides](https://docs.google.com/presentation/d/16oMZPbxJiPygsFXrAqiOeCBN3QohfwsJHKT2n1vnD3I/edit#slide=id.g4789b2c72f_0_6)
+
 **_Links_**
 - [Azure Front Door Doc](https://azure.microsoft.com/en-us/products/frontdoor/#overview)
 - [Azure Web App Firewall Doc](https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/afds-overview)
