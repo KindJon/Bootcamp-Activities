@@ -5,8 +5,9 @@
 
 **_Day1_**
 - [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/15-Web-Vulnerabilities-and-Hardening/1/Activities?ref_type=heads)
--[Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/15-Web-Vulnerabilities-and-Hardening/1/StudentGuide.md?ref_type=heads)
+- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/15-Web-Vulnerabilities-and-Hardening/1/StudentGuide.md?ref_type=heads)
 - [Slides](https://docs.google.com/presentation/d/1Z4u06rWzTvqTSfzZ5hWEtPQvE0rbIfhZxBHX82zNaAs/edit)
+
 **_INFO_LINKS_**
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 - [OWASP](https://owasp.org/)
