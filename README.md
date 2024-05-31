@@ -1,24 +1,43 @@
 # UofO-VIRT-CYBER-PT-01-2024-U-LOLC
 
 
-# Pen Testing 2
+#Project 2
 
-**_Day 1_**
-- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/17-Pentesting-2/1/Activities?ref_type=heads)
-- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/17-Pentesting-2/1/studentguide.md?ref_type=heads)
-- [Slides](https://docs.google.com/presentation/d/1kmtfy2GITMYpRtMWpfM-Y3HfW3-Aq_Cm9QDfy0Tv2Zo/)
+**_Day 1-Lab Access_**
 
-**_Day 2_**
-- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/17-Pentesting-2/2/Activities?ref_type=heads)
-- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/17-Pentesting-2/2/studentguide.md?ref_type=heads)
-- [Slides](https://docs.google.com/presentation/d/1PjO_5CiPASedodRk3t3lZ6hwBhwyQ2Y9G4a8SNRNBrc/edit)
+Project 2 lab environment in Windows Azure Lab Services. To access this environment, RDP into the Windows RDP Host machine using the following credentials:
 
-**_Day 3_**
-- [Activites](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/17-Pentesting-2/3/Activities?ref_type=heads)
-- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/17-Pentesting-2/3/studentguide.md?ref_type=heads)
-- [Slides](https://docs.google.com/presentation/d/1iN6rbfW3oStGNB_TAcxkOjydNdB35ZBmE1lTX1uPKwM/edit#slide=id.p)
+Username: azadmin
 
-**Additional Links**
-- [Mimikatz Cheat Sheet](https://gist.github.com/insi2304/484a4e92941b437bad961fcacda82d49)
-- [Mimikatz Commands](https://adsecurity.org/?page_id=1821)
-- [Lateral Movement](https://attack.mitre.org/tactics/TA0008/)
+Password: p@ssw0rdp@ssw0rd
+
+Open Hyper-V Manager to access the nested machine, and use the following credentials for the Kali machine:
+
+Username: root
+
+Password: kali
+
+Administrator password on the CTFd (Capture the Flag) environment will be reset to:
+
+Username: admin
+
+Password: ctfpassword
+
+**_To start today's lesson:_**
+
+
+Within Kali, open up a terminal, and cd over to: **/root/Documents/day_1**
+
+
+Type: **docker-compose pull** and press Enter, then...
+
+
+Type: **docker-compose up** and press Enter.
+
+
+Leave this window open.
+
+
+
+
+Now, open a browser, and access the web application at: http://192.168.14.35
