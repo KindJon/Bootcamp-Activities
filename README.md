@@ -1,7 +1,7 @@
 # UofO-VIRT-CYBER-PT-01-2024-U-LOLC
 
 
-#Project 2
+#**Project 2**
 
 **_Day 1-Lab Access_**
 
