@@ -37,6 +37,8 @@ Type: **docker-compose up** and press Enter.
 
 Leave this window open.
 
+Now, open a browser, and access the web application at: http://192.168.14.35
+
 - [Day 1 Guide](https://docs.google.com/document/d/1MBzHudN8MN8Gcjmjk69YnO9A-Zbhu2EjAgTvyQtX8VA/edit)
 
 - [DELIVERABLE Pen testing Report](https://docs.google.com/document/d/1Kz1sOwmb82uNXJyZlox9cP7tPvDpNNcvkxREuCFBVLM/edit#)
@@ -46,4 +48,4 @@ Leave this window open.
 
 
 
-Now, open a browser, and access the web application at: http://192.168.14.35
+
