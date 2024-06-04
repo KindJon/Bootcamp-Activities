@@ -37,6 +37,10 @@ Type: **docker-compose up** and press Enter.
 
 Leave this window open.
 
+- [Day 1 Guide](https://docs.google.com/document/d/1MBzHudN8MN8Gcjmjk69YnO9A-Zbhu2EjAgTvyQtX8VA/edit)
+
+- [DELIVERABLE Pen testing Report](https://docs.google.com/document/d/1Kz1sOwmb82uNXJyZlox9cP7tPvDpNNcvkxREuCFBVLM/edit#)
+
 - [Slides](https://docs.google.com/presentation/d/1BSbQKERWubZYfQZcvCnGnBklhVxSLye96axekIwFYB4/edit#slide=id.g11a629fa087_0_0)
 
 
