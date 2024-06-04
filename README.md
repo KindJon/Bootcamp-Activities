@@ -37,6 +37,8 @@ Type: **docker-compose up** and press Enter.
 
 Leave this window open.
 
+- [Slides](https://docs.google.com/presentation/d/1BSbQKERWubZYfQZcvCnGnBklhVxSLye96axekIwFYB4/edit#slide=id.g11a629fa087_0_0)
+
 
 
 
