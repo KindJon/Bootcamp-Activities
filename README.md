@@ -49,3 +49,27 @@ Now, open a browser, and access the web application at: http://192.168.14.35
 
 
 
+**_Day 2_**
+
+Docker Compose File (to launch the Linux Servers that students will attack)
+
+
+To start today's lesson:
+
+
+Within Kali, open up a terminal, and cd over to: /root/Documents/day_2.
+
+
+Type: docker-compose pull and press Enter, then...
+
+
+Type: docker-compose up and press Enter.
+
+
+Leave this window open.
+
+- [Day 2 Guide](https://docs.google.com/document/d/1KrVkwHMyJRoD09-ktsUvpYuHpuxB148D1y_DpQu7YU0/edit)
+
+- [Slides Day 2](https://docs.google.com/presentation/d/1wPFz7ZO8LYjRuDyJRq2PQG3-5laCEZHxKqtXudPZUdQ/edit#slide=id.g11a629fa087_0_0)
+
+
