@@ -10,11 +10,11 @@
 
 **Links for Resources**
 
-    - [Splunk Base](https://splunkbase.splunk.com/)    
-    - [Splunk Docs](https://docs.splunk.com/Documentation)
-    - [Splunk Add-ons](https://docs.splunk.com/Documentation/AddOns/released/Overview/AboutSplunkAdd-ons)
+- [Splunk Base](https://splunkbase.splunk.com/)    
+- [Splunk Docs](https://docs.splunk.com/Documentation)
+- [Splunk Add-ons](https://docs.splunk.com/Documentation/AddOns/released/Overview/AboutSplunkAdd-ons)
 
-++Setup to start project**
+**Setup to start project**
 
 You will use your Web Lab (Guacamole) virtual machine for this week’s activities.
 This week’s classes will use the same Splunk Docker container to run Splunk from inside the local virtual machine that was used during the Splunk lessons. In the /splunk directory inside the virtual machine, you will find a splunk.sh (sudo ./splunk.sh) script that can be run to start and stop the container as needed.
