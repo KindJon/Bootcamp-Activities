@@ -1,32 +1,26 @@
 # UofO-VIRT-CYBER-PT-01-2024-U-LOLC
 
 
-**__Digital Forensics__**
+**__Project 3__**
 
-**_Day 1_**
+**Day 1**
 
-- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/21-Digital-Forensics/1/Activities?ref_type=heads)
-    - [Case File](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/21-Digital-Forensics/1/Activities/07_National_Gallery/Unsolved/The_2012_National_Gallery_Scenario.pdf)    
+- [Day 1 Activity Guide](https://docs.google.com/document/d/1WBQ9jpDE-TOsHpXd97iBAkfCDStKAAjtIAr6Y7oyp_4/edit)
+- [Slides](https://docs.google.com/presentation/d/16mzffkiXlarZolOymcsPNRL4k1ZH-LtJwgZQtR5l2zE/edit#slide=id.g2bbf477c9db_1_2435)
 
-- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/21-Digital-Forensics/1/StudentGuide.md?ref_type=heads)
+- **Links for Resources**
+    -[Splunk Base](https://splunkbase.splunk.com/)
+    -[Splunk Docs](https://docs.splunk.com/Documentation)
+    -[Splunk Add-ons](https://docs.splunk.com/Documentation/AddOns/released/Overview/AboutSplunkAdd-ons)
 
-- [Slides](https://docs.google.com/presentation/d/1Ble9WWgKaFb7lyXEwZ4Acd1bxNJeEua-SzDPXslHU2Q/edit)
+++Setup to start project**
 
-**__Day 2__**
+You will use your Web Lab (Guacamole) virtual machine for this week’s activities.
+This week’s classes will use the same Splunk Docker container to run Splunk from inside the local virtual machine that was used during the Splunk lessons. In the /splunk directory inside the virtual machine, you will find a splunk.sh (sudo ./splunk.sh) script that can be run to start and stop the container as needed.
 
-- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/21-Digital-Forensics/2/Activities?ref_type=heads)
+If needed, refer back to the guide from Module 19 to configure Splunk on your VM.
 
-    - [Iphone Details worksheet](https://docs.google.com/document/d/1LmqJeEarZkcYh67TPFUgDvk0p5wy7Ck-FcFSZ2GcFGc/copy)
-
-- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/21-Digital-Forensics/2/StudentGuide.md?ref_type=heads)
-
-- [Slides](https://docs.google.com/presentation/d/1UGL2eJeteWLQDshXw7CVS0NA1qR6KgptwwElUqL3L2M/edit#slide=id.g480f0dd0a7_0_1803)
-
-**__Day 3__**
-
-- [Activities](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/tree/main/21-Digital-Forensics/3/Activities?ref_type=heads)
-    - [Correspondence Evidence Worksheet](https://docs.google.com/document/d/1zS-QDGYhMnbZZrwcapIrwdn73fUoh3MSkaZCcX-7LUM/copy)
-    - [Location Information Worksheet](https://docs.google.com/document/d/19ckQwWc2iPh7qzKVDnBAKoBS-DpVBCb2cFfAbLNrULk/copy)
-    - [Final Report](https://docs.google.com/document/d/1H528_nPqhfp_eOCzvyviwx5U3M1NiPTGtIFaoQoANbY/copy)
-- [Student Guide](https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-CYBER-PT-01-2024-U-LOLC/-/blob/main/21-Digital-Forensics/3/StudentGuide.md?ref_type=heads)
-- [Slides](https://docs.google.com/presentation/d/19MCFJcIUPWK_LpHjLWAUvbKRaa9KvaQLblxKiwN7Ho0/edit)
+Once the container is running, Splunk can be accessed at http://localhost:8000 on the virtual machine.
+Use the following credentials:
+Username: admin
+Password: cybersecurity
