@@ -9,9 +9,10 @@
 - [Slides](https://docs.google.com/presentation/d/16mzffkiXlarZolOymcsPNRL4k1ZH-LtJwgZQtR5l2zE/edit#slide=id.g2bbf477c9db_1_2435)
 
 - **Links for Resources**
-    -[Splunk Base](https://splunkbase.splunk.com/)
-    -[Splunk Docs](https://docs.splunk.com/Documentation)
-    -[Splunk Add-ons](https://docs.splunk.com/Documentation/AddOns/released/Overview/AboutSplunkAdd-ons)
+
+    - [Splunk Base](https://splunkbase.splunk.com/)    
+    - [Splunk Docs](https://docs.splunk.com/Documentation)
+    - [Splunk Add-ons](https://docs.splunk.com/Documentation/AddOns/released/Overview/AboutSplunkAdd-ons)
 
 ++Setup to start project**
 
