@@ -8,7 +8,7 @@
 - [Day 1 Activity Guide](https://docs.google.com/document/d/1WBQ9jpDE-TOsHpXd97iBAkfCDStKAAjtIAr6Y7oyp_4/edit)
 - [Slides](https://docs.google.com/presentation/d/16mzffkiXlarZolOymcsPNRL4k1ZH-LtJwgZQtR5l2zE/edit#slide=id.g2bbf477c9db_1_2435)
 
-- **Links for Resources**
+**Links for Resources**
 
     - [Splunk Base](https://splunkbase.splunk.com/)    
     - [Splunk Docs](https://docs.splunk.com/Documentation)
