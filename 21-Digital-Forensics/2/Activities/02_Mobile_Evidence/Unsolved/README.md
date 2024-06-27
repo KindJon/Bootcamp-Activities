@@ -10,7 +10,7 @@
  
 - A junior investigator has provided you with a list of directories that are considered highly relevant to your preliminary case information. Use this document to help guide your research:
 
-  - [iPhone Forensic Image: Important Databases and Files](https://docs.google.com/document/d/10CWGqTvu09mrSn7Tg7xoKNWBrjeW1wCmXoqB58xYr0k/edit?usp=sharing)
+  
  
 - Fill out your findings in the following worksheet: 
   - [iPhone Details Worksheet](https://docs.google.com/document/d/1LmqJeEarZkcYh67TPFUgDvk0p5wy7Ck-FcFSZ2GcFGc/copy)
