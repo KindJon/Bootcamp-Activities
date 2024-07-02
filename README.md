@@ -25,3 +25,9 @@ Once the container is running, Splunk can be accessed at http://localhost:8000 o
 Use the following credentials:
 Username: admin
 Password: cybersecurity
+
+**_Day 2_**
+
+- [Day2 Guide](https://docs.google.com/document/d/1uQGhsDiBt58_KStq3DQVbWTHUg6TIhAog3cMoXvNQk4/edit?usp=sharing)
+- [Review Questions](https://docs.google.com/document/d/18JLq4dUf4zrL-6eqTNumXicpvpUDbHxPnZx2kOzwYoQ/edit)
+- [Slides](https://docs.google.com/presentation/d/1V5hZE5SuP5zXeN-irq_t0CewFPs5G1azkTPZeaHl1d4/edit#slide=id.g4789b2c72f_0_6)
